@@ -23,18 +23,18 @@
   global.prefa = ['','.','/','#']
 
   // Other
-  global.ownername = 'Riy' // Ganti Jadi Namamu
-  global.owner = ['6281575886399','6281575886399','6285813334446'] // Kalo Mau Lebih Tambahin Aja
-  global.ownernomer = '6281575886399' // Owner Utama Istilahnya
-  global.botname = 'Hinata Hyuga' // Ganti Jadi Nama Botmu
-  global.packname = 'Hinata Hyuga' // Sticker Weem
-  global.author = 'Riy' // Sticker Weem
-  global.webme = 'https://api-riy.herokuapp.com' // Ganti Sama Web Mu
-  global.linkgroup = 'https://chat.whatsapp.com/HZhLynp6E9QKNrRFtUp26T' // Ganti Sama Link Gc Mu
+  global.ownername = 'Raditya¡X' // Ganti Jadi Namamu
+  global.owner = ['6285641476033','6285641476033','6285641476033'] // Kalo Mau Lebih Tambahin Aja
+  global.ownernomer = '6285641476033' // Owner Utama Istilahnya
+  global.botname = 'Xdit-MD' // Ganti Jadi Nama Botmu
+  global.packname = 'Xdit-MD' // Sticker Weem
+  global.author = 'IG @hai_om.qw ' // Sticker Weem
+  global.webme = 'http://instagram.com/hai_om.qw?utm_source=qr' // Ganti Sama Web Mu
+  global.linkgroup = 'https://chat.whatsapp.com/GCh8oGlUjkp16FrZ2CYEob' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
-  global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw' // Ganti Sama Link Yt Mu
-  global.github = 'https://github.com/riychdwayne' // Ganti Sama Link Github Mu
-  global.instagram = 'https://instagram.com/riychdwayne' // Ganti Sama Link Ig mu
+  global.youtube = 'http://instagram.com/hai_om.qw?utm_source=qr' // Ganti Sama Link Yt Mu
+  global.github = 'https://wa.me/6285641476033' // Ganti Sama Link Github Mu
+  global.instagram = 'http://instagram.com/hai_om.qw?utm_source=qr' // Ganti Sama Link Ig mu
 
   // Background Setiap Menu
   global.bg1 = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -58,7 +58,7 @@
   global.mess = {
   admin: '_Lu Admin? 🤨_',
   botAdmin: '_Bot Bukan Admin 😔_',
-  owner: '_Lu Bukan Owner Gw 😠_',
+  owner: '_G usah ngatur lo Bukan Owner Gw 😠_',
   group: '_Khusus Group 😏_',
   private: '_Khusus Private Chat_',
   bot: '_Khusus Pengguna Nomer Bot_',
