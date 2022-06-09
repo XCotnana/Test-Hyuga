@@ -56,14 +56,14 @@
 
   // Edit Sesuai Kemauanmu
   global.mess = {
-  admin: '_Lu Admin? 🤨_',
-  botAdmin: '_Bot Bukan Admin 😔_',
-  owner: '_G usah ngatur lo Bukan Owner Gw 😠_',
-  group: '_Khusus Group 😏_',
+  admin: '_Fitur Ini Khusus Admin Grub_',
+  botAdmin: '_Bot Bukan Admin_',
+  owner: '_G usah ngatur lo Bukan Owner_',
+  group: '_Khusus Group_',
   private: '_Khusus Private Chat_',
   bot: '_Khusus Pengguna Nomer Bot_',
-  wait: '_Sabar Sedang Di Proses ..._',
-  done: '_Done Ngab 🤗_',
+  wait: '_Sabar Deckk Sedang Di Proses ..._',
+  done: '_Done Deckk_',
   }
 
   // Kalo Mau Menyesuaikan Nama File Foto Nya
