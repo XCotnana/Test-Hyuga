@@ -31,7 +31,7 @@
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-hinata](https://wa.me/6281575886399)
+* Info Lebih Lanjut, Chat [owner-Xdit-MD](https://wa.me/6285641476033)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -85,8 +85,8 @@ global.instagram = 'https://instagram.com/riychdwayne'
 </p>
 
 ## Donate
-- [Dana](https://wa.me/6281575886399?text=Bang+mau+donasi)
-- [Gopay](https://wa.me/6281575886399?text=Bang+mau+donasi)
+- [Dana](https://wa.me/6285641476033?text=Bang+mau+donasi)
+- [Gopay](https://wa.me/6285641476033?text=Bang+mau+donasi)
 
 # Official Group
 - [Group 1](https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw)
@@ -103,3 +103,4 @@ global.instagram = 'https://instagram.com/riychdwayne'
 - Deff
 - Yoga
 - Riy
+- Xdit-MD
