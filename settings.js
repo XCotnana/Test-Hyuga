@@ -13,10 +13,10 @@
 
   // Edit Sesuai Kemauanmu
   global.autoReadGc = true // Ubah Ke false Jika Chat Di Grup Tidak Ingin Di Baca Oleh Bot
-  global.autoReadAll = false // Ubah Ke true Jika Ingin Seluruh Chat Di Baca Oleh Bot
+  global.autoReadAll = true // Ubah Ke true Jika Ingin Seluruh Chat Di Baca Oleh Bot
   global.anticall = true // Ubah Ke false Jika Tidak Ingin Bot Blockir Yang Telepon
   global.available = false // Ubah Ke false Jika Bot Mu Tidak Ingin Terlihat Online
-  global.autoTyping = false // Ubah Ke true Jika Ingin Saat Ada Yang Chat Bot Auto Mengetik
+  global.autoTyping = true // Ubah Ke true Jika Ingin Saat Ada Yang Chat Bot Auto Mengetik
   global.autoRecord = true // Ubah Ke false Jika Tidak Ingin Saat Ada Yang Chat Bot Auto Merekam
   global.multiplier = 69 // Semakin Besar Angkanya Semakin Sulit Untuk Naik Level
   global.limitCount = 70 // 70 Dah Pas Banh
@@ -27,7 +27,7 @@
   global.owner = ['6285641476033','6285641476033','6285641476033'] // Kalo Mau Lebih Tambahin Aja
   global.ownernomer = '6285641476033' // Owner Utama Istilahnya
   global.botname = 'Xdit-MD' // Ganti Jadi Nama Botmu
-  global.packname = 'Xdit-MD' // Sticker Weem
+  global.packname = 'Stikerby Xdit-MD' // Sticker Weem
   global.author = 'IG @hai_om.qw ' // Sticker Weem
   global.webme = 'http://instagram.com/hai_om.qw?utm_source=qr' // Ganti Sama Web Mu
   global.linkgroup = 'https://chat.whatsapp.com/GCh8oGlUjkp16FrZ2CYEob' // Ganti Sama Link Gc Mu
