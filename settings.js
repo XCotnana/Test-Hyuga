@@ -15,7 +15,7 @@
   global.autoReadGc = false // Ubah Ke false Jika Chat Di Grup Tidak Ingin Di Baca Oleh Bot
   global.autoReadAll = false // Ubah Ke true Jika Ingin Seluruh Chat Di Baca Oleh Bot
   global.anticall = true // Ubah Ke false Jika Tidak Ingin Bot Blockir Yang Telepon
-  global.available = false // Ubah Ke false Jika Bot Mu Tidak Ingin Terlihat Online
+  global.available = true // Ubah Ke false Jika Bot Mu Tidak Ingin Terlihat Online
   global.autoTyping = false // Ubah Ke true Jika Ingin Saat Ada Yang Chat Bot Auto Mengetik
   global.autoRecord = false // Ubah Ke false Jika Tidak Ingin Saat Ada Yang Chat Bot Auto Merekam
   global.multiplier = 69 // Semakin Besar Angkanya Semakin Sulit Untuk Naik Level
@@ -56,9 +56,9 @@
 
   // Edit Sesuai Kemauanmu
   global.mess = {
-  admin: '_Fitur Ini Khusus Admin Grub_',
+  admin: '_Fitur Ini Khusus Admin Grub Deckk_',
   botAdmin: '_Bot Bukan Admin_',
-  owner: '_G usah ngatur lo Bukan Owner_',
+  owner: '_G usah ngatur Deckk lo Bukan Owner_',
   group: '_Khusus Group_',
   private: '_Khusus Private Chat_',
   bot: '_Khusus Pengguna Nomer Bot_',
