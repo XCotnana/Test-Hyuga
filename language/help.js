@@ -645,7 +645,7 @@ Semoga Kamu Senang Berada Disini Serta Jangan Lupa Untuk Membaca Dan Mematuhi Ru
   }
 
   // Leave
-  exports.Yah si beban keluar = () => {
+  exports.goodbye= () => {
   return `Tetap Putus Asa Jangan Semangat Dan Jadilah Beban Keluarga Dan jangan lupa Follow IG saya http://instagram.com/hai_om.qw?utm_source=qr 🗿
   `
   } 
