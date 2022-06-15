@@ -620,21 +620,21 @@ zarrah, niscaya dia akan melihat
   return`
 *SEWA BOT 💫*
 
-📆 1 Minggu : Rp. 1.000.000,00
-📆 1 Bulan : Rp. 2.000.000,00
-📆 1 Tahun : Rp. 10.000.000,00
+📆 1 Minggu : Rp. 10.000,00
+📆 1 Bulan : Rp. 20.000,00
+📆 1 Tahun : Rp. 100.000,00
 📆 Permanen : Chat owner!!!
 
 *🏦 PAYMENT :*
 - Gopay
 - Dana
-- Pulsa
+
   `
   }
 
   // Welcome
   exports.welcome = () => {
-  return `Intro Dulu Deckk Biar Keren 🤙
+  return `Intro Dulu Biar Keren 🤙
 
 📛 Nama : 
 🔞 Umur :
@@ -646,7 +646,7 @@ Semoga Kamu Senang Berada Disini Serta Jangan Lupa Untuk Membaca Dan Mematuhi Ru
 
   // Leave
   exports.goodbye= () => {
-  return `Tetap Putus Asa Jangan Semangat Dan Jadilah Beban Keluarga Dan jangan lupa Follow IG saya http://instagram.com/hai_om.qw?utm_source=qr 🗿
+  return `Tetap Putus Asa Jangan Semangat Dan Jadilah Beban keluarga 🗿🤙
   `
   } 
 
