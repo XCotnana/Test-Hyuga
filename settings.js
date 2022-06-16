@@ -23,18 +23,18 @@
   global.prefa = ['','.','/','#']
 
   // Other
-  global.ownername = 'Raditya¡X' // Ganti Jadi Namamu
+  global.ownername = '¡X' // Ganti Jadi Namamu
   global.owner = ['6285641476033','6285641476033','6285641476033'] // Kalo Mau Lebih Tambahin Aja
   global.ownernomer = '6285641476033' // Owner Utama Istilahnya
   global.botname = 'Xdit-MD' // Ganti Jadi Nama Botmu
   global.packname = 'Stikerby Xdit-MD' // Sticker Weem
   global.author = 'IG @hai_om.qw ' // Sticker Weem
-  global.webme = 'http://instagram.com/hai_om.qw?utm_source=qr' // Ganti Sama Web Mu
+  global.webme = 'https://instagram.com/hai_om.qw' // Ganti Sama Web Mu
   global.linkgroup = 'https://chat.whatsapp.com/GCh8oGlUjkp16FrZ2CYEob' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
-  global.youtube = 'http://instagram.com/hai_om.qw?utm_source=qr' // Ganti Sama Link Yt Mu
-  global.github = 'https://wa.me/6285641476033' // Ganti Sama Link Github Mu
-  global.instagram = 'http://instagram.com/hai_om.qw?utm_source=qr' // Ganti Sama Link Ig mu
+  global.youtube = 'https://instagram.com/hai_om.qw' // Ganti Sama Link Yt Mu
+  global.github = 'https://chat.whatsapp.com/GCh8oGlUjkp16FrZ2CYEob' // Ganti Sama Link Github Mu
+  global.instagram = 'https://instagram.com/hai_om.qw' // Ganti Sama Link Ig mu
 
   // Background Setiap Menu
   global.bg1 = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -57,8 +57,8 @@
   // Edit Sesuai Kemauanmu
   global.mess = {
   admin: '_Fitur Ini Khusus Admin Grub Deckk_',
-  botAdmin: '_Bot Bukan Admin_',
-  owner: '_G usah ngatur Deckk lo Bukan Owner_',
+  botAdmin: '_Bukan admin cok_',
+  owner: '_G usah ngatur Deckk lo Bukan Owner Gw_',
   group: '_Khusus Group_',
   private: '_Khusus Private Chat_',
   bot: '_Khusus Pengguna Nomer Bot_',
